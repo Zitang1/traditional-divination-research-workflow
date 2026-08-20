@@ -1,0 +1,4 @@
+interface:
+  display_name: "Traditional Divination Research Workflow"
+  short_description: "Analyze divination questions with evidence and uncertainty"
+  default_prompt: "Use $traditional-divination-research-workflow to analyze this traditional Chinese divination question as a cultural and research exercise, separating source tradition, modern reasoning, and factual uncertainty."
